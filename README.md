@@ -177,33 +177,6 @@ Employee Added Successfully
 
 ---
 
-## Future Enhancements
-
-* Implement Interfaces
-* Add Exception Handling
-* Override toString()
-* Override equals() and hashCode()
-* Implement Comparator for Salary Sorting
-* Store Employee Data in Files
-* Integrate JDBC and MySQL Database
-* Build Spring Boot REST APIs
-
----
-
-## Learning Outcomes
-
-Through this project, I gained hands-on experience in:
-
-* Designing classes and objects
-* Applying OOP principles
-* Managing data using ArrayList
-* Implementing CRUD operations
-* Performing input validation
-* Understanding inheritance and polymorphism
-* Structuring Java applications using separation of responsibilities
-
----
-
 ## Author
 
 Viswanth Kumar
